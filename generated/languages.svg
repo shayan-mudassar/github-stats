@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #DA5B0B;width: 62.311%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 26.887%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 3.685%;" class="progress-item"></span><span style="background-color: #663399;width: 2.749%;" class="progress-item"></span><span style="background-color: #c6538c;width: 2.330%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.123%;" class="progress-item"></span><span style="background-color: #f7523f;width: 0.615%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.220%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.044%;" class="progress-item"></span><span style="background-color: #AA6746;width: 0.036%;" class="progress-item"></span>
+<span style="background-color: #DA5B0B;width: 62.310%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 26.886%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 3.685%;" class="progress-item"></span><span style="background-color: #663399;width: 2.749%;" class="progress-item"></span><span style="background-color: #c6538c;width: 2.330%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.123%;" class="progress-item"></span><span style="background-color: #f7523f;width: 0.615%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.220%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.044%;" class="progress-item"></span><span style="background-color: #AA6746;width: 0.036%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.002%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -226,6 +226,15 @@ viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Solidity</span>
 <span class="percent">0.04%</span>
+</li>
+
+
+<li style="animation-delay: 1500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#89e051;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Shell</span>
+<span class="percent">0.00%</span>
 </li>
 
 
